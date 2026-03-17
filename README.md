@@ -2,9 +2,9 @@
 
 ## Hi, I'm Rizqdwan
 
-#### Just an ordinary college student who likes to type code, design, and make something cool.
+<!--#### Just an ordinary college student who likes to type code, design, and make something cool.-->
 - 🔭 I'm currently working on a Personal Project
-- 🌱 I'm currently learning Spring Boot and Go
+- 🌱 I'm currently learning Go
 - 💬 I'm interested in System Architecture
 
 
